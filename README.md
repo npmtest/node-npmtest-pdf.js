@@ -1,6 +1,6 @@
 # npmtest-pdf.js
 
-#### test coverage for  [pdf.js (v0.1.0)](http://devongovett.github.com/pdfkit/)  [![npm package](https://img.shields.io/npm/v/npmtest-pdf.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pdf.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pdf.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pdf.js)
+#### basic test coverage for  [pdf.js (v0.1.0)](http://devongovett.github.com/pdfkit/)  [![npm package](https://img.shields.io/npm/v/npmtest-pdf.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pdf.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pdf.js.svg)](https://travis-ci.org/npmtest/node-npmtest-pdf.js)
 
 #### A PDF generation library for Node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-pdf.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-pdf.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pdf.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pdf.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pdf.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pdf.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-pdf.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-pdf.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pdf.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pdf.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-pdf.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pdf.js/build/coverage.html/index.html)
 
@@ -75,7 +75,8 @@
         "type": "git",
         "url": "git://github.com/stanislavfeldman/pdf.js.git"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
